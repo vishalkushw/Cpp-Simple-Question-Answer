@@ -1,1 +1,0 @@
-# Cpp-Simple-Question-Answer
