@@ -10,7 +10,7 @@ int add(){
 	sum=num1+num2;
 	return sum;
 	
-//	cout<<"sum : "<<num1+num2;
+//	cout<<"sum : "<<num1 + num2;
 
 	
 }
