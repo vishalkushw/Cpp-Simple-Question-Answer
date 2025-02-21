@@ -24,7 +24,7 @@ Score < 50: Not eligible for admission */
 			cout<<"Eligible for Arts:";
 		}
 		else if(score<50){
-			cout<<"not eligible for admission : ";
+			cout<<"Not eligible for admission : ";
 		}
 
 	}
