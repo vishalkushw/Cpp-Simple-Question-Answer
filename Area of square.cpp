@@ -3,7 +3,7 @@ using namespace std;
 
 int area(){
   int s;
-  cout<<"Enter a Side";
+  cout<<"Enter a Side of area";
   cin>>s;
  int area_sq=s*s;
  return area_sq;
