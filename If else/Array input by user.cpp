@@ -7,7 +7,7 @@ int main(){
 	int arr[n];
 	
 	for(int i=0;i<n;i++){
-		cout<<"Enter array index :"<<i<<" ";
+		cout<<"Enter Array Index :"<<i<<" ";
 		cin>>arr[i];
 	}
 	cout<<"Array : ";
