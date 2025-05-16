@@ -9,7 +9,7 @@ Age >= 65: Senior  */
 	int main (){
 		
 		int age;
-		cout<<"Enter your age : ";
+		cout<<"Enter Your Age : ";
 		cin>>age;
 		
 		if (age<13){
