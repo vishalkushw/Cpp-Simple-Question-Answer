@@ -8,9 +8,9 @@
 //int main(){
 //	int num1;
 //	int num2;
-//	cout<<"enter first number : ";
+//	cout<<"Enter First number : ";
 //	cin>>num1;
-//	cout<<"enter second number : ";
+//	cout<<"Enter Second number : ";
 //	cin>>num2;
 //	
 //	add(num1,num2);
