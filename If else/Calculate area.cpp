@@ -8,7 +8,7 @@
 				int  square,circle,rectangle;
 	        	cout<<"Enter first number : ";
 	        	cin>>num1;
-	        	cout<<"Enter  second number : ";
+	        	cout<<"Enter Second number : ";
 	        	cin>>num2;
 	        	cout<<"Enter your choise Square'S' circle'C' rectangle 'R' : ";
 	        	cin>>choise;
