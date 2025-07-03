@@ -5,7 +5,7 @@ void swap(int a ,int b){
 	a=a+b;
 	b=a-b;
 	a=a-b;
-	cout<<"After swapping "<<"\n";
+	cout<<"After Swapping "<<"\n";
 	cout<<"Value of a = "<<a<<"\n";
 	cout<<"Value of b = "<<b<<"\n";
 }
