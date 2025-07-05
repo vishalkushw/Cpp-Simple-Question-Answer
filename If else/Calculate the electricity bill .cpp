@@ -8,7 +8,7 @@ Units > 200: Rate per unit = Rs 2    */
 		using namespace std;
 		int main(){
 			int units;
-			cout<<"Enter your unit : " ;
+			cout<<"Enter Your Unit : " ;
 			cin>>units;
 			
 			if(units<=100){
