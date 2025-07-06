@@ -12,7 +12,7 @@ If the student's performance is categorized as "Excellent," further
     using namespace std;
     int main(){
 	int marks;
-	cout<<"Enter your mark : ";
+	cout<<"Enter Your Mark : ";
 	cin>>marks;
 	
 	if(marks>=90){
