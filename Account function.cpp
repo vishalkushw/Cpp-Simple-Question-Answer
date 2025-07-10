@@ -3,7 +3,7 @@ using namespace std;
 
 void roll(int roll){
 	
-	 cout<<"Your accunt number is : 9234567 ";
+	 cout<<"Your accunt number is : 8734567 ";
 	
 }
 
