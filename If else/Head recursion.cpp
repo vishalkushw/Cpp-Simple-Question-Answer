@@ -12,7 +12,7 @@ int cybrom(int a){
 }
 
 int main(){                           
-cybrom(5);
+cybrom(6);
 
 }	
 
