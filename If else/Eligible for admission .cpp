@@ -9,7 +9,7 @@ Score < 50: Not eligible for admission */
 	using namespace std;
 	int main(){
 		int score;
-		cout<<"Enter your score : ";
+		cout<<"Enter Your Score : ";
 		cin>>score;
 		
 		if(score>=85){
