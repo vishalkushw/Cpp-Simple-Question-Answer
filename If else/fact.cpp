@@ -11,7 +11,7 @@ int fact(int a){
 
 int main(){   
 int n;
-cout<<"Enter a number : ";
+cout<<"Enter a Number : ";
 cin>>n;                       
 cout<<fact(n);
 }	
