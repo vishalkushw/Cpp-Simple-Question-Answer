@@ -31,7 +31,7 @@ If the student's performance is categorized as "Excellent," further
 			cout<<"Good "<<marks;
 		}
 		else if(marks>=35||marks>50){
-			cout<<"Need improvment "<<marks;
+			cout<<"Need Improvment "<<marks;
 		}
 		else if(marks>35){
 			cout<<"Fail "<<marks;
